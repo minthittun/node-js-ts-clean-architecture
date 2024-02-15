@@ -3,7 +3,7 @@ This project was created with [Node.js](https://nodejs.org/en)
 
 ## About this project
 
-This project demonstrates a clean architecture approach in Node.js using TypeScript. It includes well-defined layers for entities, use cases, controllers, and frameworks.
+I've built a Node.js REST API project using TypeScript and MongoDB, adhering to a clean architecture. Additionally, I've included a Dockerfile and Docker Compose configuration for straightforward containerization. I hope this provides a simple yet effective starting point for implementing clean architecture in Node.js.
 
 
 ## Directory structure
